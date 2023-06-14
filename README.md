@@ -8,7 +8,7 @@ Hi there! 👋
 *   👨‍💻 Have a look at my tableau projects at
 *   ✉️ You can contact me at rasihhalalithasan98@gmail.com 
 
-## Tools and Languages 
+## Tools and Languages
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> </p>
                  
             

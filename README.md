@@ -13,5 +13,5 @@ Hi there! 👋
 ## Data Analysis Projects
 The following showcases a collection of my projects that i have undertaken whilst self-learning data analysis tools:
 
-Google Data Analytics Professional Certificate 
+[Google Data Analytics Professional Certificate](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate.git)
             

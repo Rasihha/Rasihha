@@ -14,4 +14,5 @@ Hi there! 👋
 The following showcases a collection of my projects that i have undertaken whilst self-learning data analysis tools:
 
 [Google Data Analytics Professional Certificate](https://github.com/Rasihha/Google-Data-Analytics-Professional-Certificate.git)
+[IBM Excel Basics for Data Analysis](https://github.com/Rasihha/IBM_Excel_Basics_For_Data_Analysis.git)
             

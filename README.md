@@ -2,9 +2,9 @@ Hi there! 👋
 ===================================
 
 *   🌍  I'm based in London
-*   📚  Currently working on developing my Excel, SQL and data visualisation skills to break into tech as a Data Analyst
-*   🎯 2023 Goals: Become proficient in SQL, data visualisation and learn Python in my data analytics journey
-*   🌱 On this GitHub, you will find my Excel and SQL portfolios 
+*   📚  Currently working on developing my Excel, SQL/Python and data visualisation skills to break into tech as a Data Analyst
+*   🎯 2024 Goals: Continue applying my analytics skills through projects with the aim of securing a Data Analyst role 
+*   🌱 On this GitHub, you will primarily find my SQL and Python portfolios 
 *   💬 Ask me about any of my projects and the knowledge i have gained from these
 
 ## Tools and Languages

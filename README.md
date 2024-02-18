@@ -26,7 +26,7 @@ Hi there! 👋
 ## Data Analysis Projects
 The following showcases a collection of my projects that i have undertaken whilst self-learning data analysis tools:
 
-[Chat_data_Online_Forum_SQL_Project.ipynb](
+[Chat_data_Online_Forum_SQL_Project.ipynb](https://github.com/Rasihha/OpenClassrooms-Data-Analytics-Bootcamp/blob/2050d8c3cd9e9e7423eae8cf387fd40cf39c5162/Chat_data_Online_Forum_SQL_Project.ipynb)
 
 [Camden_Trees_Initiatives_Python_Project](https://github.com/Rasihha/OpenClassrooms-Data-Analytics-Bootcamp/blob/045263c41e9c3b14f8ccf14a02bdbcef84adf1ef/Camden_Trees_Initiatives_Python_Project.ipynb)
 

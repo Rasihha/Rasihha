@@ -3,7 +3,7 @@ Hi there! 👋
 
 *   🌍  I'm based in London
 *   📚  Currently working as a Data Analyst at a pharmaceutical distrubution company
-*   🎯 2025 Goals: Continue applying my analytics skills through projects with the aim of securing a new Data Analyst role after completion of Contracted Employment
+*   🎯 2025 Goals: Continue applying my analytics skills through projects with the aim of securing a new Data role after completion of Contracted Employment
 *   🌱 On this GitHub, you will primarily find my SQL and Python portfolios 
 *   💬 Ask me about any of my projects and the knowledge i have gained from these
 
